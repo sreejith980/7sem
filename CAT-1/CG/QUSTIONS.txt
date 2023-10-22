@@ -1,0 +1,13 @@
+1.DDA line drawing algorithm (0,0)-(4,6) note,pdf
+
+2. Compare and contrast all colour model (def,diagram,example, matrix) pg no.11-9
+
+3.2D transformation (translation, rotation, scaling, reflection and shear) (formula,graph,matrix) pg no. 4-5
+
+4. Cohen Sutherland Line clipping algorithm (definition, diagram, algorithm, rule) pg no. 5-13
+
+5.3 dimensional geometric transformation (translation, rotation, scaling, reflection and shear) pg no. 7-2
+
+6.i) Translation-3abc a(2,5) b(7,29) c(10,2) 4 units in y axis. Pg no. 4.6
+   ii) Rotation(Rotates in 45⁰) (4,3) pg no.4.7
+  iii) Scaling a(2,5) b(7,10) c(10,2) x direction 2 units. Y direction 2 units pg no. 4.9
